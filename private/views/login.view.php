@@ -1,6 +1,6 @@
 <?php $this->view('includes/header') ?>
-<div class="container-fluid">
-    <div class="m-auto shadow rounded"
+<div class="container-fluid my-5">
+    <div class="mr-4 p-4 m-auto shadow rounded"
          style="margin-top:50px; width:100%; max-width:310px; padding:30px; ">
         <h2 style="text-align:center;">My School</h2>
         <img src="https://source.unsplalsh.com/random" class="border border-primary d-block mx-auto rounded-circle"

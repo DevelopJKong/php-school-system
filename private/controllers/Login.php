@@ -1,6 +1,6 @@
 <?php
 /**
- * home controller
+ * Login controller
  */
 
 class Login extends Controller

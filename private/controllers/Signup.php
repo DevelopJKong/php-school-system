@@ -1,6 +1,6 @@
 <?php
 /**
- * home controller
+ * Signup controller
  */
 
 class Signup extends Controller
